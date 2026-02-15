@@ -1,7 +1,9 @@
 streamlit
 langchain
-langchain-classic
 langchain-community
-langchain-core
 langchain-google-genai
-google-generativeai
+langchain-classic
+langchainhub
+yfinance
+requests
+python-dotenv
